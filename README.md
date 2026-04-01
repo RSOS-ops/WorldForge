@@ -266,12 +266,13 @@ We thank the research community for their valuable contributions to video diffus
 ## Citation
 
 ```bibtex
-@misc{song2025worldforgeunlockingemergent3d4d,
-  title={Taming Video Models for 3D and 4D Generation via Zero-Shot Camera Control}, 
-  author={Chenxi Song and Yanming Yang and Tong Zhao and Ruibo Li and Chi Zhang},
-  year={2025},
-  url={https://arxiv.org/abs/2509.15130}, 
+@article{song2025worldforge,
+  title={Taming Video Models for 3D and 4D Generation via Zero-Shot Camera Control},
+  author={Song, Chenxi and Yang, Yanming and Zhao, Tong and Li, Ruibo and Zhang, Chi},
+  journal={arXiv preprint arXiv:2509.15130},
+  year={2025}
 }
+
 ```
 
 ## Contact
