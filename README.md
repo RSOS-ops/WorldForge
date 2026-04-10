@@ -1,6 +1,4 @@
-<img src="teaser/worldforge.png" alt="WorldForge Logo" width="45" align="left" style="margin-right: 10px;"> 
-
-# WorldForge (CVPR 2026)
+# WorldForge (CVPR 2026 $\color{#ea3277}{\textbf{\textsf{Highlight}}}$)
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2509.15130-b31b1b)](https://arxiv.org/abs/2509.15130)&nbsp;
@@ -11,7 +9,7 @@
 
 <div align="center">
 
-**[Taming Video Models for 3D and 4D Generation via Zero-Shot Camera Control](https://arxiv.org/abs/2509.15130)**
+<img src="teaser/worldforge.png" alt="WorldForge Logo" width="40">&nbsp;<b><a href="https://arxiv.org/abs/2509.15130">Taming Video Models for 3D and 4D Generation via Zero-Shot Camera Control</a></b>
 
 <img src="teaser/teaser.png" alt="WorldForge Teaser" width="100%">
 
@@ -20,12 +18,12 @@
 [Chenxi Song](https://chenxi-song.github.io)<sup>1</sup>, [Yanming Yang](https://2hiTee.github.io)<sup>1</sup>, [Tong Zhao](https://tongzhao1030.github.io)<sup>1</sup>, [Ruibo Li](https://scholar.google.com/citations?hl=zh-CN&user=qtGY5T4AAAAJ&view_op=list_works&sortby=pubdate)<sup>2</sup>, [Chi Zhang](https://icoz69.github.io)<sup>1*</sup>
 <br>
 <sup>1</sup>AGI Lab, Westlake University &nbsp;&nbsp;&nbsp; <sup>2</sup>Nanyang Technological University
-<br>
-<sup>*</sup>Corresponding Author
+
 
 </div>
 
 ## Update
+- [2026.04] 🏆 Selected as **CVPR 2026 Highlight!**
 - [2026.02] 🎉 Accepted by **CVPR 2026!**
 - [2026.02] 🔥 **Code released!** VGGT 3D warping, DepthCrafter 4D warping, Wan2.1 & LongCat-Video inference are now available.
 - [2025.09] [arXiv](https://arxiv.org/abs/2509.15130) preprint is available.
